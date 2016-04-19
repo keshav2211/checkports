@@ -1,0 +1,10 @@
+---
+checkports::host_port_hash:
+  localhost:
+    - '80'
+    - '443'
+    - '22'
+# hostname:
+#   - 'port no.'
+#   - 'port no.'
+
